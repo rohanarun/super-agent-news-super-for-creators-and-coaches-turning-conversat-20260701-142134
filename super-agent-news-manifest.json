@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[securityweek.com](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/)",
+    "[darkreading.com](https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents)",
+    "[venturebeat.com](https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure)",
+    "[thehackernews.com](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)"
+  ],
+  "design_plan": "rng=42; hero_math=2.4_lines; AIDA=pass; bento_density=grid-auto-flow:dense; label_sweep=pass; button_contrast=pass",
+  "generated_at": "2026-07-01T14:21:41.708661+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion\u2011focused niche landing page for creators and coaches who live in conversations \u2014 coaching calls, sales calls, interviews, DMs \u2014 and need those conversations turned into repeatable content and operational workflows. Super is positioned as the sharper alternative for durable computer\u2011use automation, with a reusable computer-use cache that makes repeated work faster, cheaper, and safer than general chat assistants."
+}
